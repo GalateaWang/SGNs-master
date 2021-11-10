@@ -13,14 +13,14 @@ Real-world networks exhibit prominent hierarchical and modular structures, with 
 Please cite our paper if you use this code in your own work:
 
 ```
-@ARTICLE{8924759,  
-author={Xuan, Qi and Wang, Jinhuan and Zhao, Minghao and Yuan, Junkun and Fu, Chenbo and Ruan, Zhongyuan and Chen, Guanrong},  
-journal={IEEE Transactions on Knowledge and Data Engineering},   
-title={Subgraph Networks With Application to Structural Feature Space Expansion},   
-year={2021},  
-volume={33},  
-number={6},  
-pages={2776-2789},  
-doi={10.1109/TKDE.2019.2957755}
+@article{xuan2021subgraph,
+  title={Subgraph Networks With Application to Structural Feature Space Expansion},
+  author={Xuan, Qi and Wang, Jinhuan and Zhao, Minghao and Yuan, Junkun and Fu, Chenbo and Ruan, Zhongyuan and Chen, Guanrong},
+  journal={IEEE Transactions on Knowledge and Data Engineering},
+  volume={33},
+  number={6},
+  pages={2776--2789},
+  year={2021},
+  publisher={IEEE COMPUTER SOC}
 }
 ```
