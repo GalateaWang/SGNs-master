@@ -1,4 +1,5 @@
 # SGNs-master
+![github](https://img.shields.io/badge/github-GalateaWang-brightgreen.svg) ![watchers](https://img.shields.io/github/watchers/galateawang/SGNs-master) ![Github stars](https://img.shields.io/github/stars/GalateaWang/SGNs-master.svg)
 This is a project for a TKDE 2019 paper "Subgraph Networks With Application to Structural Feature Space Expansion". Please stay tuned for future updates!
 
 **Update:** This paper has been published in IEEE TKDE, Volume: 33, Issue: 6, June 1 2021. [PaperLink](https://ieeexplore.ieee.org/document/8924759) 
